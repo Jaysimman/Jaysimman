@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaysimman
 - 👀 I’m interested in Coding
-- 🌱 I’m currently studing in Artificial Intelligence and Machine Learning.
+- 🌱 I’m was completed my UG B.Tech in Artificial Intelligence and Machine Learning.
 - 📫 How to reach me ... jaysimmannet@gmail.com
 
 <!---
